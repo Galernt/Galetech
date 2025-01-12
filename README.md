@@ -1,3 +1,4 @@
+# im not gonna be using the github like i was originally, if you want newer versions go to the discord
 # Galetech
 Released on the 15th of december | https://galetech.fandom.com/wiki/Galetech_Wiki | https://discord.gg/esSqvc6SHN
 ## What is Galetech?
