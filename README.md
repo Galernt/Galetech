@@ -1,5 +1,5 @@
-# im not gonna be using the github like i was originally, if you want newer versions go to the discord
-# Galetech
+# github mainly used for aternos
+# Galecraft (formerly galetech)
 Released on the 15th of december | https://galetech.fandom.com/wiki/Galetech_Wiki | https://discord.gg/esSqvc6SHN
-## What is Galetech?
-Galetech is a minecraft mod inspired by Gregtech that is meant to make minecraft very realistic and very difficult, However Galetech is different in the way that i try and make it fun and not too difficult
+## What is Galecraft?
+Galecraft is a mod that changes the way minecraft is played, adding magic, industry, new dimensions and biomes and even new tools and armor and structures and ores and more(s)!
